@@ -1,0 +1,1183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The path-way to perfection shewing the duty of children to their parents ... / by J.S. ...</title>
+            <author>J. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94230</idno>
+            <idno type="STC">Wing S79A</idno>
+            <idno type="STC">ESTC R42533</idno>
+            <idno type="EEBO-CITATION">36282254</idno>
+            <idno type="OCLC">ocm 36282254</idno>
+            <idno type="VID">150248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2237:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The path-way to perfection shewing the duty of children to their parents ... / by J.S. ...</title>
+                  <author>J. S.</author>
+               </titleStmt>
+               <extent>16 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut illustration, verso of t.p.</note>
+                  <note>Imperfect: faded and cropped, with loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parent and child --  Biblical teaching.</term>
+               <term>Filial piety --  Biblical teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150248:1" rendition="simple:additions"/>
+            <p>
+               <hi>The PATH-Way</hi> To <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ERFECTION: Shewing the Duty of Children to their Parents; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the promiſed Bleſſings, which attend <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſe that truly perform it.</p>
+            <p>The Variety of Worldly Pleaſures, in reſpect of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ptations, with proper Methods to refrain their <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ements, and ſuitable Remedies againſt them.</p>
+            <p>The great neceſity of Repentance, with awake<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Motives and Exhortations thereunto: As alſo the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nal Danger, and miſerable Conſequences which <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ds the delay and neglect thereof; the comforta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Enjoyments which accompanies that great and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſſary work, with directions and Encouragements, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>reunto.</p>
+            <p>By <hi>J. S.</hi> D. D.</p>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not thy ſelf of to morrow, for thou knoweſt not what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Day may bring forth,</p>
+               <bibl>
+                  <hi>Prov. 27.1.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London</hi> Printed, 1698.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:150248:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a man kneeling in prayer</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>If theſe Chriſtian Arguments ſhould not be reckoned worth laying out one Penny, be pleaſed to read it <hi>Gratis,</hi> keep it clean, and return it in an hour.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="3" facs="tcp:150248:2"/>
+            <head>
+               <hi>I</hi> Shall firſt begin with the Duties of Children to Paren<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> conſidering the many inconveniencies which generally <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tend the neglect thereof, for 'tis in vain to undertake <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> work of repentance without the performance of this Dut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> it being Expreſly Comanded by God himſelf.</head>
+            <div n="1" type="chapter">
+               <head>I.</head>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>EXOD. XX.XII.</hi>
+                     </bibl>
+                     <p>Honour thy Father and thy Mother, that thy Days may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> long in the Land which the Lord thy God giveth thee.</p>
+                  </q>
+               </epigraph>
+               <p>BUT how little this Duty is regarded is too manife<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ly known in all parts of this Nation, for Pare<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> have for the moſt part, their Children no longer un<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> their Obedience, than they are under the Rod, for be<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> grown up they think themſelves free from all manne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Command, and tho' (perhaps) ſome do obſerve it, y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the caſe be throughly Examin'd 'tis for their own Int<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> ſake, by gaping for what they have, but very few o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> purely upon the Duty of Conſcience. This unnat<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Sin of Diſobedience to Parents, was by the Law of <hi>M<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> Puniſhable with Death, <hi>Deut.</hi> 21.19. but if Fathers <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mothers now a days ſhould be ſo ſevere with their Chil<g ref="char:EOLhyphen"/>dren; Oh what great numbers would make themſelves Childleſs thereby. Hear what the wiſe Man adv<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <hi>Prov.</hi> the 23.22. <hi>Hearken to thy Father that bega<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and deſpiſe not thy Mother when ſhe is old.</hi> But the Y<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> of our Age are ſo far from hearkening to their Pa<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> Councel, that they eſteem it as Wiſdom to deſpiſe it and proceed ſo far as to mock and deride their Perſon
+<pb n="4" facs="tcp:150248:3"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eir Extream Age, when Infirmities has both rendred <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>em uſeleſs and helpleſs, but let ſuch vile wretches read <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>rov.</hi> 30.17. <hi>The Eye that mocketh his Father and deſpi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſh to Obey his Mother, the Ravens of the Valley ſhall pick <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ut, and the Young Eagles ſhall eat it;</hi> There is ordinari<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſuch a Pride and headineſs in Youth, that they cannot <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ide to ſubmit to the Councels and wholſome Inſtructions <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Parents; many times accounting them the Effect <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dotage when indeed they are the fruits of Sobriety and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> experience, deſign'd for the good and welfare of their Souls and Bodies.</p>
+               <p>The Debt that a Child owes to his Parents is ſo great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> can never hope to diſcharge, unleſs he calls God to his <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l, in begging of him that be would be pleaſed to reward <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n for the many troubles and ſorrows that they have <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>dergon for him, by multiplying his bleſſings upon them; <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t inſtead of this ſome are ſo unnaturally Wicked, as to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſack (as I may ſay) Hell it ſelf for Curſes by pouring <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> black and diſmal Expreſſions againſt them? which is <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing ſo horrid, odious and abominable that one would <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k there needed no perſwaſion againſt it. But we ſee <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nly, God himſelf, (who beſt knows Men's hearts) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it poſſible: otherwiſe he had not pronounced ſuch <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eavy Sentence upon it, <hi>Exod.</hi> 21.17. <hi>He that Curſeth Father or Mother let him Die the Death.</hi> And our own experience tells us that many Children there are, who <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ugh greedineſs of the Poſſeſſions of their Parents have <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hed their Deaths, but let ſuch know that how ſliely <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fairly ſoever they carry it before Men, there is one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſees and knows the ſecret wiſhes and deſires of their <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ts. And further take Notice that they who watch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Long for the Death of their Parents, may be the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ice of God, (before they are aware) untimely meet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their own, for as the Fifth Commandment pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h Long Life as the reward of honouring the Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>; ſo by Conſequence ſhort life is threatned, upon
+<pb n="5" facs="tcp:150248:3"/>breach of that Duty, to prove which I could repeat ſev<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> remarkable Inſtances in order thereunto.</p>
+               <p>And again we are to render them all due obedie<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>Epheſ.</hi> 6.1. <hi>Children obey your Parents in the Lord for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is right;</hi> again <hi>Coloſ.</hi> 3.20. <hi>Children Obey your Par<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> in all things for this is well pleaſing to the Lord.</hi>
+               </p>
+               <p>You ſee here St. <hi>Paul</hi> aſures us 'tis not only righ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> obey our Parents in point of natural ſubjection to th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> but there is a higher degree of perfection enexed t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>(viz.)</hi> it is well pleaſing to the Lord, ſo that you ſee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is ſo neceſſary a Duty that Conſequently without it cannot pleaſe God.</p>
+               <p>And Laſtly we cannot Honour our Parents as we ou<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> unleſs we aſſiſt them in their wants, of what kind ſoe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> whither in weakneſs of Body, Poverty, or whatſoe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> earthly unhappineſs befals them, for Chriſt himſelf te<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>eth us, that this is Contain'd within the Precept of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nouring our Parents, as you may read <hi>Mark.</hi> 7.10, 11, 13. How then ſhall thoſe anſwer it who deny relief their poor Parents, and cannot find in their hearts to p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> with with that which they vainly throw away (upon th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Pride and Exceſs,) to ſatisfie the preſſing neceſſities <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thoſe to whom they owe their very being. Nay ſome <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yet worſe, who out of great Pride ſcorn to own their <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rents in their Poverty, when themſelves are advanced Wealth, they hold it a diſparagment to look on their po<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Parents: ſo that the Childs proſperity (many times) pro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the Father and Mothers unhappineſs; but this is ſo unna<g ref="char:EOLhyphen"/>tural and inhuman ingratitude, as will ſurely find a ſhall Vengeance from God, unleſs timely repented of; there<g ref="char:EOLhyphen"/>fore for the Lord ſake, and as you tender the welfare <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your Precious Souls, not only read, but put in practise this great and neceſſary (tho much decayed and neglect<g ref="char:EOLhyphen"/>ed) Duty, in performing which you will, not only me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Gracious promiſed reward of Long life and proſpe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ty in this world, but 'twill be a means to obtain (through
+<pb n="6" facs="tcp:150248:4"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>merits of Chriſt our redeemer,) a happy Crown of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ory in the Kingdom of bliſs Eternally which God of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> infinite Mercy grant to us all. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>And ſo</hi> I <hi>deſcend to ſpeak ſomething relating to the uncer<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ty, vanity and deceit, as well as mutability of Earthly <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ceited Pleaſures, which are the only Obſtructions of Re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tance.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>II. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Vanity and Uncertainty of Earthly Pleaſures.</head>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>le. I.VIII.</hi>
+                     </bibl>
+                     <p>The Eye is not ſatisfied with Seeing, nor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Ear fill'd with Hearing.</p>
+                  </q>
+               </epigraph>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this latter Age, the Pleaſures of this World are the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Idols of Mankind, for 'tis impoſſible to Love our ſelves <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not to Love our Pleaſures, the World has truly no<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ng in it which may be accounted great, or at leaſt ſatis<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tory, for it's entertainments are ſtrangely Empty and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ting.</p>
+               <p>For how taking ſoever a Pleaſure may appear or ſeem in <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ncy, yet 'tis Evidently known that Men ſoon diſrelliſh <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at they moſt Covet to Injoy, nay ſometimes they <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>dain what they Poſſeſs.</p>
+               <p>What is Greatneſs? 'tis but a ſlippery height, it is a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>orious Slavery, and a fantaſtick formality. What is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ealth? 'tis not to be reckoned an Enjoyment, but the way <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>one. What is Luſt? but a ſuddain violent and unruly <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tiny of Spirits, a ſuddain Blaze, that flaſhes and then <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es. What is Gaity of Attire? but an Imaginary Pret <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eſs to pleaſe Children and Fools.</p>
+               <p>Beſides 'tis the Sillineſs of the Fancy only, which creates <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuppoſed Pleaſure, Coveting that moſt which we ne<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r tryed, like a Man who comes into a new World the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>angeneſs of it only begets the wonder, ſucceſs many
+<pb n="7" facs="tcp:150248:4"/>times makes a man loath what before he vehemen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Loved, for when he hath try'd all objects he will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Vanity, for as ſoon as Experience has Defeare<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Perſon of Imagination, it robbs him of the Pleaſure <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> For a ſinner derives his temptation from Cuſtom, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not ſo much becauſe 'tis pleaſent, but becauſe he is uſe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> do ſo. This is the caſe of thoſe who pretend to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> greateſt Gallentry, and Wit in the choice and contriva<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of their Sins. Therefore what ſhall we think of th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> who baſely ſtoop to the mean and ſenſual Conceited p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſures of Love, Luſt, Gluttony, Pride, Covetouſneſs, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> For though great Fortunes are neceſſary to ſupport g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Sins, yet our Sins ruin our Fortunes. Our health is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ceſſary to our Senſual Pleaſure, but yet our Pleaſures dermine our health: And thus the change of th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and humours, makes a Sinners life a ſtrange mixture deſire and diſapointment.</p>
+               <p>Good God? that ever rational Men ſhould for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Heaven for ſuch a mixt uncertain State of Empty p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſures as this? Oh that we could but open our Eyes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſee through all that Paint and Varniſh that mocks and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ludes the fancy, we need but be wiſe and we ſhall be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ly too; for if we once truely underſtand the world, cannot but diſpiſe it.</p>
+               <p>Vain Pleaſures are Conceited Sun ſhines in the pur<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> but black and diſmal cloudes in the Enjoyment, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther Pleaſure as is a Beautiful Harlot, ſitting in a Cha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whoſe four wheles are Pride, Gluttony, Luſt and Idle<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the two Horſes are Proſperity and Plenty, the two <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vers are Covetouſneſs and Ambition, her attendants <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> followers are horrour Guilt and late repentance (if a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Death and ruin; therefore for the Lords ſake avoid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Strumpit, and come not near the Door of her Houſe. <hi>E<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 2.2: <hi>I ſaid of Laughter it is Mad and of Mirth, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> doſt thou?</hi>
+               </p>
+               <pb n="8" facs="tcp:150248:5"/>
+               <p>And as for Lawful pleaſures (as you call them) 'tis <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r beſt wiſdom only to touch them, and if you will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them, let it be as Poyſon in an Antidote, to fortify <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r ſelves againſt Caſual Extremities.</p>
+               <p>St. <hi>Auguſtine</hi> before his Converſion, could not Live <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hout the Carnal pleaſures of this World, but when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nature was chang'd, and his heart fix't upon God, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> how ſweet (quoth he) is it to be without that which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fore Idolized and admired.</p>
+               <p>What a ſilly thing therefore is Impiety, and how wiſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> well contrived a thing is Religion, for what can we <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re more of God; if he gives us a pleaſant Fortune, he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſcribes us rules how to Enjoy it prudently; if he <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>olves us in a croſs one, he ſupplies us with Comforts to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eten and ſupport it.</p>
+               <p>Therefore aſſure your ſelves that no pleaſure on this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Grave, is ſo truly delighting, ſo ſatisfying <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>engaging and ſo laſting as thoſe which ſpring <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Union and Communion, from God and Chriſt, ha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g a Conſcience void of offence towards God and to<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rds Man.</p>
+               <p>And further take notice, that no Man yet, (tho' never <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Notorious) ever ſinn'd with a deſign or perſwaſion to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eternally Damn'd for it. No, no, but thought they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> provided a reſerve ſafe enough for after Repentance, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>' god knows, moſt have miſerably miſcarryed therein, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God's cutting them off ſuddainly, or Sin at laſt grew <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rong, and they too weak to withſtand it. <hi>Jonah.</hi> 2.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>They that waite upon Vanities forſake their own mercy.</hi>
+               </p>
+               <p>For it is much eaſier to Conquer a Luſt than to ſatisfie <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Ambitious may grow Content ſooner than great; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Covetous may ſooner moderate their deſires than ſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ie them; the Adulterer may ſooner gain a chaſte Spirit, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n ſatisfy the ravings of a beaſtly and wandring Luſt. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Man's Frame grows more tractable and goverriable, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wholſome Reaſonings, and ſound advice; and Heaven<g ref="char:EOLhyphen"/>ly
+<pb n="9" facs="tcp:150248:5"/>by Prayers and Meditations. But if you once give way<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nay but ſo much as liſten to a wanton Suggeſtion, it wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> immediately kindle into Luſt and that Luſt if Encouraged <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> will flame into inordinate Paſſion; and Conſequently Paſſion will grow ſavage and unruly; And they if fe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and pamper'd very rarely (if ever) ceaſes till it centure<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the ruin of thy Body and Eſtate; and without Extr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ordinary Mercies, thy precious and Immortal Soul alſo.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>III.</head>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Luke XIII.V.</hi>
+                     </bibl>
+                     <p>I tell you nay, but except ye repent ye ſh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> all likewiſe periſh.</p>
+                  </q>
+               </epigraph>
+               <p>THE occaſion of theſe Words was becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Jews</hi> ſeem'd ſo raſhly and uncharitably to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſure upon the <hi>Galileans,</hi> whoſe hard fate was ſuch, a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> be Murtherd by <hi>Pilate</hi>'s Cruelty, and at the very time t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> when they were offering Sacrifices, thereby Conclud<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> becauſe their Sufferings Exceeded others, their Sins m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Conſequently be proportionable thereunto. And th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 18 alſo upon whom the Tower of <hi>Siloam</hi> fell, were Ju<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed by thoſe Carnal <hi>Jews</hi> to be greater, moſt notori<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Capital Sinners, than all others that dwelt at <hi>Jer<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lem;</hi> and from hence vainly flattered themſelves, beca<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the like Judgments did not fall upon them they fanc<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that they were not only ſafe, but very firm and ſure<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the favour of God<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Therefore our Saviour in order<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Correct and Convince them of this their falſe, raſh <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> haſty Cenſure, Anſwers them thus, <hi>Nay but Except <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> repent you ſhall all likewiſe periſh.</hi> As if he ſhould h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſaid, do you think becauſe you have hitherto Eſcaped <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Judgments, that you ſhall ſteal away in the Dark, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> flee from God's juſt diſpleaſure. No, no you are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> much miſtaken, for I ſay unto you, even you, who a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ready to Condemn others and Juſtifie your Selves, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:150248:6"/>except you very ſpeedily fall to an earneſt agreement <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d reconciliation with God, by leaving of your Sins, you <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all not only be ſubject to the like diſaſters in this life, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t ſhall alſo periſh Eternally, in the world to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me, ſo that our bleſſed Saviour in this very anſwer, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth (as it were) thunder down a moſt dreadful Sen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce, upon the heads of thoſe vain and high Conceited <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hriſtians, who ſet ſuch a great value upon their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n Merits, and ſuch Contemptable and undervaluing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oughts of their poor ſuffering Brethren; when at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſame time (perhaps) they are guilty of as great, if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t far greater Sins, than thoſe whom God is pleaſed to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake Examples of his Divine Judgments, and ſo conſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ently unleſs they repent muſt likewiſe miſerably periſh, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erefore oh Chriſtians! let us ſtrive to atain to this one <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng needful, for it neceſſary follows, that repentance <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> go before forgiveneſs, for unleſs it leads the way, the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tes of God's Mercies will be ſhut againſt us. And by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> way take notice that repentance is not a careleſs, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>areful thing, therefore let none that that a few Sighs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaying Lord have mercy upon them now and then, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from time to time make freſh Engagements with their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ul and odious Impieties, I ſay let none think this to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entance. No, no theſe are direct and downright Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ies and cannot ſtand together, to repent for Sin, and to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ight in Sin; to hate Sin, and at the ſame time to Love <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> entertain it; to fly from Sin, and to follow Sin; is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>way to agravate and Encreaſe it. For ſome Men make <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>igion, only a Sundays Religion, puting it on and off <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Sundays cloaths, and then conclude God is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly ſerved for all the week, vainly ſuppoſing that if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> keep up Religious duties on Sundays, they may do <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t they pleaſe at other times, and think that on the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th they can make even with God again. Like the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore in the <hi>Proverbs,</hi> that having made her Offerings, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> preſently ready to Commit freſh Wickedneſs. <hi>Prov.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>4. as if ſhe had paid off the old ſcore and might now
+<pb n="11" facs="tcp:150248:6"/>boldly run on again upon a new. But oh my Brethre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God will not Look Mercifully upon any that loo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleaſantly upon his Sins, the Jealous God wll n<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> indure to ſee thee bankering and longing after <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Harlots lips, that is by Embracing any Sin with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> light. Oh! Therefore look into thine hands, look <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thine heart, look into thy houſe, look into thy ſhop, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Trade, thy calling, ſee that thy heart and mind be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Corrupted, by being fix't too nigh to ſomething the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> For true peace with God, cannot be made till thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are removed; therefore be not almoſt but altogeth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chriſtians, perhaps, ſome of you have been half of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mind to repent throughly of your great hainous and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cret Crimes and have wiſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> many times, that neceſſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> word had been perform'd. But how long will you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> barely in theſe fruitleſs purpoſes? When will you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to a full fix'd and firm reſolve, don't you plainly ſee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Satan gulls you by tempting you to delays, what if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould cut you off before you come to a happy reſolu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Oh how terrible would it be to look back upon the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gracious opportunities of mercies, which you have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fully and preſumptiouſly neglected; therefore O <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtians I beſeech you all in general, Conſider <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> great and weighty neceſſity there is of Repentance <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p>It was a notable paſſage of a Noble <hi>Roman,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was Loading, a Veſſel with Corn, to carry to a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time of Famine, the Marriners being unwilling <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sail in a Storm, (ſays he) <hi>Our Voyage is of more <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> than our Lives.</hi> Therefore as food is Neceſſary <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> port natural ſtrength, ſo is repentance only <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to ſecure the Soul, and preſerve it in ſafty, for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Diſeaſe thereof breeding diſtempers, as well as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bances therein. For what a Continual tempeſt and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> motion is there in a diſcontented mind? What <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> evil is inordinate care? What is Paſſion but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> feavour in the mind? What is Luſt but a fire in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> What is Pride but a deadly Tinpany? or Cove<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:150248:7"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> an unſatiable deſire? or Malice and Envy, but ve<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n in the very heart? Spiritual Sloath is but a Scurvy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he mind, and Carnal ſecurity a mortal Lethergy; and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> can that Soul, have any true Comfort, that Labours <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>er ſo many diſtempers? Therefore the Conſcience <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>not be truly pacified, till ſoundly cleanſed and purified. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Peace with ſin, and Peace in ſin, is more to be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aded, then all the troubles in the World.</p>
+               <p>Ariſe then, O Sluggard and ſhake off thine Excuſes, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> long wilt thou ſlumber, and fold thy hands to ſleep? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou be human Creatures, and not ſenſleſs Stocks, ſtand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and conſider where you are going, and do not fall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hell with your Eyes open, but bethink your ſelves, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſet to this Neceſſary work of repentance, what, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and run into the Pit when the very Beaſts will not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orced in? What endowed with Reaſon, and yet dally <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Death and Hell, and the Vengeance of the Almigh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> Oh! ſhew your ſelves like Men and let reaſon pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> with you, <hi>Eſay.</hi> 1.2. <hi>Hear O Heavens, and give Ear <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, for the Lord hath ſpoken,</hi> I <hi>have nouriſhed and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> up Children and they have Rebelled againſt me.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere is never a Creature but if it had reaſon to know <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 'tis abuſed, it would groan againſt ſinful mankind. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Land would groan to bear them, the Air would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to give them breath, their Houſes to lodge them, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Beds would refuſe to eaſe them, as would their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to nouriſh them, and their Cloaths to cover them. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> could but ſpeak, their Food would ſay Lord, muſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch a wretch as this, as yield forth my ſtrength <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uriſh him to diſhonour thee withal? No, I will choak <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather, if thou wilt but give me Commiſſion. The <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Air would ſay Lord muſt I give this man breath, to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tongue againſt Heaven; ſcorn thy People, and vent <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ride, Wrath and filthy Communication, and belch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Oaths and Blaſphemy againſt thee, No, if thou <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut ſay the word he ſhall be breathleſs for me. His <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would ſay Lord muſt I carry this ſinful wretch, upon
+<pb n="13" facs="tcp:150248:7"/>his wicked and Odious deſigns, No, I will break his bone<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I will end his Days, if I may have but leave from thee, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> creatures being (as it were) up in arms againſt thee t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> thy peace is made with God, <hi>Job.</hi> 22, 23, 24.</p>
+               <p>
+                  <hi>At distruction and famine thou ſhalt Laugh, neither ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> thou be afraid of the Beaſts of the Earth, for thou ſhalt be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> League with the ſtones of the field, and the Beaſts of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> field ſhall be at peace with thee, And thou ſhalt know that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> tabernacle ſhall be in Peace; and thou ſhalt viſit thy hab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tation and ſhalt not Sin.</hi>
+               </p>
+               <p>Oh Sinners make your peace therefore, with the Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of peace, and give up your Souls and Lives, to be ruled b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him? But that this Exhortation may take the better E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>fect I will back it with ſome preſſing Conſiderations.</p>
+               <p>Firſt either, you muſt taſte of Gods's goodneſs or h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fury; for there is not a Man nor Woman in the World but muſt pertake of the one or the other, your portion will be either joy or ſorrow, either diſolation or conſo<g ref="char:EOLhyphen"/>lation, if you be not Trees for bearing, you muſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Trees for burning, if you are not for fruit, you muſt b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for flames, if you do not ſwim in the water-works o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> repentance, you muſt and ſhall burn in the fire works o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vengeance, if you will not make your peace with God to obtain Heaven, you muſt go to Hell for not making you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> peace; for one of them you muſt do; for as our Saviour ſaith <hi>Mark.</hi> 16.16. <hi>He that believes and is Baptiz'd ſhall be ſaved, but he that believeth not ſhall be Damn'd.</hi>
+               </p>
+               <p>Oh Chriſtians if godlineſs be evil why do you ſo much profeſs it? If it be good why do you ſo little practiſe it either take Chriſt into your Lives, or caſt him out of your Lips, either get oyl into your Lamps or caſt them away.</p>
+               <p>It would be Juſt with God to fall out with a carna<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Man in the Courſe of his providence, who falls off from him in the Courſe of his obedience, for wicked Men mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the World their treaſure, and God makes the World their torment; when they want Eſtates they are trouble<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:150248:8"/>for them, and when they have Eſtates they are troubled <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ith them. Murmuring Perſons, think every thing too <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uch that is done by them, but think every thing too lit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e that is done for them; God is as far from pleaſing <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em with his Mercy, as they are from pleaſing God with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eir Duty. 'Tis farther obſervable, that Carnal Men <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar no wrath becauſe they feel none, Imagining, becauſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey ſin unpuniſhed, there is no puniſhment for their ſins. <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d becauſe Chriſt goeth on to ſpare them, they go on to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rovoke him; and as he adds to their Lives, ſo they add <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Luſts, becauſe he is very Merciful, they will be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery Sinful; becauſe he is very good they will be very <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ad: And laſtly becauſe Juſtice winks. Men think he is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lind: But alas! Inraged Juſtice will ſtrick home at laſt, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd aveng the quarrel of abuſed Mercies; for the long<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r God forbears, the ſharper is the ſtroke when he comes <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o Judgment. And the longer God is lifting up his hand, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>he heavier will the blow be when it falls <hi>Rev.</hi> 2.21, 22. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> gave her ſpace to renent of her Fornication but ſhe, repen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed not. Behold</hi> I <hi>will caſt her into a Bed, and then that Commit Adultry with her into great tribulation, except they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>epent of their deeds.</hi>
+               </p>
+               <p>Again Conſider o man! that ſo long as you let ſin Con<g ref="char:EOLhyphen"/>tinue in you, it is and will be like a Serpent in the boſom that is ſtinging, or like a Thief in the cloſſet that is ſteal<g ref="char:EOLhyphen"/>ing, or like Poyſon in the Stomach that is Poyſoning, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ike a ſharp two edged Sword in the Bowels that is killing. Therefore for the Lords ſake leave off your Sins, for think of them how you will, ſome are in Hell already for ſmal<g ref="char:EOLhyphen"/>ler Sins (perhaps) than you now daily puts in practiſe. For is it not better her to forgo the pleaſures of Sin, then hereafter to undergo the pain for Sin. You that ſin now for your profit, will then find your Sins unprofitable, for he that likes the works of Sin, to do them will never like the wages of Sin, to have them.</p>
+               <pb n="15" facs="tcp:150248:8"/>
+               <p>Sin is both Shameful and Damnable, it ſhameth Me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this World and Damneth them in the World to come <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is like <hi>Judas,</hi> it at firſt falutes, but at laſt betrays us, o<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>Dalila,</hi> ſmile in our faces, and at the fame time betra<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> us into our mortal Enemies hand. Oh that Men w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> deal truly with their own Souls, for tho' many tall<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> grace yet few taſte of it. Every one that talks <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſtian does not walk like one, many wear Chriſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very, who do the Devils Drudgery, many have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Therefore remember that the ſheeps coat, will be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from off the Wolves back. If here be nothing done <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your ſelves on Earth, their will be nothing done <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your souls in Heaven.</p>
+               <p>And for a further Motive to Repentance ſuppoſe, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> preſumptous Sinner! that thou ſaweſt a Condemn'd Per<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> hanging over a burning firy furnace, by nothing bu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſmall thred, which was ready to break every mome<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> would not thine heart and bowels tremble and yearn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch a one? Why (as <hi>Nathan</hi> ſaid to <hi>David</hi>) thou art <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Man. This is thy very Caſe, that readeſt this, if th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> doeſt not ſpeedily repent, for what if the thred of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> life ſhould break, (as thou knoweſt not but it may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very next moment) where wouldeſt thou be then? w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther wouldeſt thou drop? but into the lake that burne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with fire and Brimſtone, where thou muſt lie welter<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Eternally in that firy Ocean if thou dieſt in an unconv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ted ſtate. And can'ſt thou read this and not tremble, do<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not thy heart throb in thy boſom, doth not thy tears I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dew the Paper, doeſt thou not yet ſmite upon thy brea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and bethink thy ſelf of what need thou haſt of a chang<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> O what is thy heart made of. If the diſmal cries of <hi>Cor<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Dathen</hi> and <hi>Abiram</hi> were ſo terrible, (when the Ear<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> opened her Mouth and ſwallowed them up) that all <hi>Iſra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> fled at the cry of them, <hi>Numb.</hi> 16.33.34. Oh h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> fearful and amazing would be the Dreadful cry, if G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:150248:9" rendition="simple:additions"/>ſhould take (but) off the Covering from the Mouth of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ll and let the cry of the Damn'd (in all it's terrors) <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>end among the Children of Men, cortainly 'twould <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very piercing. Why as God liveth that made thy Soul, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nleſs thou repenteth and be converted) thou art but a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hours diſtance from thus. Therefore Oh my beloved <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>riſtians, if you have any pity for your periſhing Souls, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe with the preſent offers of mercy, and do not ſtick <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the birth, if the God that made you have any Aut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> with you obey his Commands, repent, come in and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Converted, and let not Heaven ſtand open for you <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ain, therefore look to it, for I will ſay with <hi>Moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ut.</hi> 30.10. <hi>That</hi> I <hi>have ſet before you, life and Death, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſſings and Curſſings, therefore chuſe life, that you may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>Therefore with good King <hi>Hezekiah</hi> let us be afraid of <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>l's threatnings, and be truly ſorry for our Sins, and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>rtily and unfeignedly repent, for the ſame, that when the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cked who have willowed in Luſt and Pleaſures here <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ow, ſhall be condemn'd and plung'd into their ever<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing pains; we may then I ſay, receive Crowns of Glo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, and reign with God and Chriſt in the fulneſs of all <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e Joy and Comfort, in the higheſt Heavens world <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>hout end. To whom with the Father, Son and Holy <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>rit, be all honour, glory, power and dominion now and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> evermore. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="license_to_print">
+               <p>
+                  <hi>Licenſed according to Order.</hi>
+               </p>
+               <pb facs="tcp:150248:9"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
